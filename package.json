@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "nodemon": "./node_modules/nodemon/bin/nodemon.js ./src/app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "hbs": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
