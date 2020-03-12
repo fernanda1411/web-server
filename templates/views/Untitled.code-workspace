@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/Users/nanda/Projects/nodejs/notes-app"
+		},
+		{
+			"path": "/Users/nanda/Projects/nodejs/playground"
+		},
+		{
+			"path": "/Users/nanda/Projects/nodejs/weather-app"
+		},
+		{
+			"path": "/Users/nanda/Projects/nodejs/web-server"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather-app"
+	}
+}
